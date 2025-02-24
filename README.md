@@ -2,6 +2,10 @@
 
 pip install Flask
 
+pip install numpy
+
+pip install pandas
+
 python app.py
 
 Configurar metodo POST con postman por ejemplo en http://127.0.0.1:5000/funcionDiscretizacion
